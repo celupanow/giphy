@@ -13,8 +13,8 @@ Working Link
  - Display the rating of each gif.
  
 ## How It Works
-
+When the page loads, it displays several buttons that are created from an array of pre-existing search terms. The user can click on these to display 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTgxNzY1NzRdfQ==
+eyJoaXN0b3J5IjpbLTI0Mjg2ODg5OV19
 -->
