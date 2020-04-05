@@ -12,29 +12,39 @@
      <link rel="stylesheet" type="text/css" href="assets/css/style.css">
     <title>Giphy</title>
 </head>
+
 <body>
     <div class="container">
-    <!--div to hold the buttons-->
+
+        <!--div to hold the buttons and the input-->
         <div class="row">
-            <div class="col-md-12" id="buttons">
+
+            <!--div to hold the buttons-->
+            <div class="col-md-8" id="buttons">
             </div>
-        </div>
-    <!--div to hold the gifs-->
-        <div class="row">
-            <div class="col-md-8" id="gifs">
-            </div>
-    <!--div to hold the input box and button-->
+
+            <!--div to hold the input box and button-->
             <div class="col-md-4" id="input">
                 <form id="gif-form">
                     <!--input form-->
-                    <label for="gif-input">Add a Dessert</label>
-                    <input type="text" id="gif-input"><br>
+                    <label for="gif-input">Add Your Own:</label>
+                    <br>
+                    <input type="text" placeholder="nom nom nom" id="gif-input">
+                    <br>
                     <!--button to add input-->
-                    <input id="add-gif" type="submit" value="Add">
+                    <input id="add-gif" type="submit" value="Add a tasty dessert!">
                 </form>
             </div>
         </div>
+
+        <!--div to hold the gifs-->
+        <div class="row">
+            <div class="col-md-12" id="gifs">
+            </div>
+        </div>
+
     </div>
+
         <!-- link to jQuery -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
         <!--link to javascript file -->    

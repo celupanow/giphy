@@ -1,0 +1,36 @@
+
+/* adding background color */
+body {
+    background-color: grey;
+}
+
+/* adding color and spacing to the buttons */
+.dessert {
+    margin: 20px;
+    border-color: #5E009E;
+    background-color: #A652E0;
+}
+
+/* adding color and spacing to the input div for the text and input box */
+#input {
+    margin: 20px 0px 0px 0px;
+    color: #5E009E;
+}
+
+/* adding color and spacing to the add button */
+#add-gif {
+    margin: 10px 0px 0px 0px;
+    border-color: #5E009E;
+    background-color: #A652E0;
+}
+
+/* adding color, spacing, and a border to the ratings */
+.rating {
+    margin: 10px 1000px 10px 0px;
+    background-color: #A652E0;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: #5E009E;
+    text-align: center;
+}
+
