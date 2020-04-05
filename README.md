@@ -13,8 +13,8 @@ Working Link
  - Display the rating of each gif.
  
 ## How It Works
-When the page loads, it displays several buttons that are created from an array of pre-existing search terms. The user can click on these to display 
+When the page loads, it displays several buttons that are created from an array of pre-existing search terms and an input field with a submit button. When the user clicks on one of the existing search buttons, a function will run that first uses an AJAX call to the Giphy API to return the first ten gifs and then displays th
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mjg2ODg5OV19
+eyJoaXN0b3J5IjpbMTc4NzUzNzcxN119
 -->
