@@ -23,17 +23,12 @@ This application uses the Giphy API to pull gifs and display them based on searc
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-
 	* [Built With](#built-with)
-
 * [Getting Started](#getting-started)
-
 	* [Prerequisites](#prerequisites)
-
 	* [Installation](#installation)
-
+* [Roadmap](#roadmap)
 * [Contact](#contact)
-
 * [Acknowledgements](#acknowledgements)
 
   
@@ -134,8 +129,8 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDQxNzc2NTYsNDA5Nzc0MzEzLC0xNj
-Y3NTE0MDg5LDE2ODUyMDg0NDEsLTIwNTI4MTM4NjEsMjMyNTI0
-NTMwLDIxMTQwNzc2MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX
-0=
+eyJoaXN0b3J5IjpbLTE0MjgyNjkxMzQsLTE3NDQxNzc2NTYsND
+A5Nzc0MzEzLC0xNjY3NTE0MDg5LDE2ODUyMDg0NDEsLTIwNTI4
+MTM4NjEsMjMyNTI0NTMwLDIxMTQwNzc2MzEsLTgxMDQwNzc2MS
+wyMDUwMDc2OTQ3XX0=
 -->
