@@ -1,49 +1,19 @@
 
-  
-  
-  
-  
-  
-
 <!-- PROJECT SHIELDS -->
 
-[![Contributors][contributors-shield]][contributors-url]
-
-[![Forks][forks-shield]][forks-url]
-
-[![Stargazers][stars-shield]][stars-url]
-
-[![Issues][issues-shield]][issues-url]
-
-[![MIT License][license-shield]][license-url]
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![LinkedIn][linkedin-shield]][linkedin-url]
 
  
 <h3 align="center">GIPHY</h3>
-
-  
-
 <p align="center">
-
 This application uses the Giphy API to pull gifs and display them based on search parameters. It allows users to add their own search buttons. Gifs are displayed as static and can then be clicked to animate. Click again to return to static.
-
 <br />
-
-<a href="https://github.com/celupanow/giphy"><strong>Explore the docs »</strong></a>
-
 <br />
-
 <br />
-
 <a href="https://celupanow.github.io/giphy">View Demo</a>
-
 ·
-
 <a href="https://github.com/celupanow/giphy/issues">Report Bug</a>
-
 ·
-
 <a href="https://github.com/celupanow/giphy/issues">Request Feature</a>
 
 </p>
@@ -297,6 +267,6 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyNTI0NTMwLDIxMTQwNzc2MzEsLTgxMD
-QwNzc2MSwyMDUwMDc2OTQ3XX0=
+eyJoaXN0b3J5IjpbLTE1MDcxNTczOTYsMjMyNTI0NTMwLDIxMT
+QwNzc2MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX0=
 -->
