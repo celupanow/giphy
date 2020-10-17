@@ -79,7 +79,11 @@ To get a local copy up and running follow these simple steps.
 git clone https://github.com/celupanow/giphy.git
 
 ```
+3. Enter your API in config.js
 
+```sh
+var config = "ENTER YOUR API";
+```
   
   
   
@@ -212,7 +216,7 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA5Nzc0MzEzLC0xNjY3NTE0MDg5LDE2OD
-UyMDg0NDEsLTIwNTI4MTM4NjEsMjMyNTI0NTMwLDIxMTQwNzc2
-MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX0=
+eyJoaXN0b3J5IjpbODM2Nzg4NTI4LDQwOTc3NDMxMywtMTY2Nz
+UxNDA4OSwxNjg1MjA4NDQxLC0yMDUyODEzODYxLDIzMjUyNDUz
+MCwyMTE0MDc3NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
 -->
