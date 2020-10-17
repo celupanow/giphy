@@ -58,30 +58,25 @@ This is just a fun project that allows users to search for fun dessert-themed gi
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/)
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * [jQuery](https://jquery.com)
 * [AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 * [Giphy API](https://developers.giphy.com/)
-* 
+
 <!-- GETTING STARTED -->
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
   
 ### Installation
-1. Clone the repo
+1. Get a free API Key at https://developers.giphy.com/
+
+2. Clone the repo
 
 ```sh
 
 git clone https://github.com/celupanow/giphy.git
-
-```
-
-2. Clone the re
-
-```sh
-
-npm install
 
 ```
 
@@ -217,7 +212,7 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDMzNjgxNSwtMTY2NzUxNDA4OSwxNj
-g1MjA4NDQxLC0yMDUyODEzODYxLDIzMjUyNDUzMCwyMTE0MDc3
-NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
+eyJoaXN0b3J5IjpbNDA5Nzc0MzEzLC0xNjY3NTE0MDg5LDE2OD
+UyMDg0NDEsLTIwNTI4MTM4NjEsMjMyNTI0NTMwLDIxMTQwNzc2
+MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX0=
 -->
