@@ -59,11 +59,13 @@ This is just a fun project that allows users to search for fun dessert-themed gi
 
   
 
-* []()
+* [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 
-* []()
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-* []()
+* [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [jQuery](https://jquery.com)
+* 
 
   
   
@@ -247,7 +249,7 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5ODUwOTE4MywtMTY2NzUxNDA4OSwxNj
+eyJoaXN0b3J5IjpbMTA1OTU2Mzg4NCwtMTY2NzUxNDA4OSwxNj
 g1MjA4NDQxLC0yMDUyODEzODYxLDIzMjUyNDUzMCwyMTE0MDc3
 NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
 -->
