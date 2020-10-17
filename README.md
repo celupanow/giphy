@@ -9,7 +9,6 @@
 This application uses the Giphy API to pull gifs and display them based on search parameters. It allows users to add their own search buttons. Gifs are displayed as static and can then be clicked to animate. Click again to return to static.
 <br />
 <br />
-<br />
 <a href="https://celupanow.github.io/giphy">View Demo</a>
 ·
 <a href="https://github.com/celupanow/giphy/issues">Report Bug</a>
@@ -19,26 +18,19 @@ This application uses the Giphy API to pull gifs and display them based on searc
 </p>
 
 </p>
-
-  
-  
-  
-
 <!-- TABLE OF CONTENTS -->
 
 ## Table of Contents
 
-  
-
 * [About the Project](#about-the-project)
 
-* [Built With](#built-with)
+	* [Built With](#built-with)
 
 * [Getting Started](#getting-started)
 
-* [Prerequisites](#prerequisites)
+	* [Prerequisites](#prerequisites)
 
-* [Installation](#installation)
+	* [Installation](#installation)
 
 * [Usage](#usage)
 
@@ -267,6 +259,6 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDcxNTczOTYsMjMyNTI0NTMwLDIxMT
-QwNzc2MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX0=
+eyJoaXN0b3J5IjpbOTk4Nzc2MjU3LDIzMjUyNDUzMCwyMTE0MD
+c3NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
 -->
