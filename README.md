@@ -1,19 +1,11 @@
 
+  
+  
+  
+  
+  
+
 <!-- PROJECT SHIELDS -->
-
-<!--
-
-*** I'm using markdown "reference style" links for readability.
-
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-
-*** See the bottom of this document for the declaration of the reference variables
-
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
--->
 
 [![Contributors][contributors-shield]][contributors-url]
 
@@ -296,25 +288,25 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/celupanow/repo.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/celupanow/giphy.svg?style=flat-square
 
-[contributors-url]: https://github.com/celupanow/repo/graphs/contributors
+[contributors-url]: https://github.com/celupanow/giphy/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/celupanow/repo.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/celupanow/giphy.svg?style=flat-square
 
-[forks-url]: https://github.com/celupanow/repo/network/members
+[forks-url]: https://github.com/celupanow/giphy/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/celupanow/repo.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/celupanow/giphy.svg?style=flat-square
 
-[stars-url]: https://github.com/celupanow/repo/stargazers
+[stars-url]: https://github.com/celupanow/giphy/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/celupanow/repo.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/celupanow/giphy.svg?style=flat-square
 
-[issues-url]: https://github.com/celupanow/repo/issues
+[issues-url]: https://github.com/celupanow/giphy/issues
 
-[license-shield]: https://img.shields.io/github/license/celupanow/repo.svg?style=flat-square
+[license-shield]: https://img.shields.io/github/license/celupanow/giphy.svg?style=flat-square
 
-[license-url]: https://github.com/celupanow/repo/blob/master/LICENSE.txt
+[license-url]: https://github.com/celupanow/giphy/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
@@ -350,6 +342,6 @@ When the page loads, it runs a function that displays several buttons that are c
  - Giphy API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNDA3NzYzMSwtODEwNDA3NzYxLDIwNT
-AwNzY5NDddfQ==
+eyJoaXN0b3J5IjpbLTEwNTIwMzk2MDgsMjExNDA3NzYzMSwtOD
+EwNDA3NzYxLDIwNTAwNzY5NDddfQ==
 -->
