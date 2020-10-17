@@ -32,14 +32,6 @@ This application uses the Giphy API to pull gifs and display them based on searc
 
 	* [Installation](#installation)
 
-* [Usage](#usage)
-
-* [Roadmap](#roadmap)
-
-* [Contributing](#contributing)
-
-* [License](#license)
-
 * [Contact](#contact)
 
 * [Acknowledgements](#acknowledgements)
@@ -91,7 +83,6 @@ var config = "ENTER YOUR API";
   
 
 See the [open issues](https://github.com/celupanow/giphy/issues) for a list of proposed features (and known issues).
-  
 
 <!-- CONTACT -->
 
@@ -99,15 +90,11 @@ See the [open issues](https://github.com/celupanow/giphy/issues) for a list of p
 
   
 
-Your Name - [@ ](https://twitter.com/ ) - christina@christinalupanow.com
+Christina Lupanow - christina@christinalupanow.com
 
   
 
 Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/giphy)
-
-  
-  
-  
 
 <!-- ACKNOWLEDGEMENTS -->
 
@@ -115,17 +102,7 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
   
 
-* []()
-
-* []()
-
-* []()
-
-  
-  
-  
-  
-  
+* [GitHub Pages](https://pages.github.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
@@ -157,8 +134,8 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTM2MjA5MSw0MDk3NzQzMTMsLTE2Nj
-c1MTQwODksMTY4NTIwODQ0MSwtMjA1MjgxMzg2MSwyMzI1MjQ1
-MzAsMjExNDA3NzYzMSwtODEwNDA3NzYxLDIwNTAwNzY5NDddfQ
-==
+eyJoaXN0b3J5IjpbLTE3NDQxNzc2NTYsNDA5Nzc0MzEzLC0xNj
+Y3NTE0MDg5LDE2ODUyMDg0NDEsLTIwNTI4MTM4NjEsMjMyNTI0
+NTMwLDIxMTQwNzc2MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX
+0=
 -->
