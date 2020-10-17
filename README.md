@@ -51,7 +51,7 @@ This application uses the Giphy API to pull gifs and display them based on searc
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://drive.google.com/file/d/1hTDsEOStHbi10atxEsL4fsBknjmjYfcq/view?usp=sharing)
 
 
 
@@ -256,7 +256,7 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyMDE3MTQ0NywtMjA1MjgxMzg2MSwyMz
+eyJoaXN0b3J5IjpbMTY4NTIwODQ0MSwtMjA1MjgxMzg2MSwyMz
 I1MjQ1MzAsMjExNDA3NzYzMSwtODEwNDA3NzYxLDIwNTAwNzY5
 NDddfQ==
 -->
