@@ -81,29 +81,9 @@ git clone https://github.com/celupanow/giphy.git
 ```
 3. Enter your API in config.js
 
-```sh
+```JS
 var config = "ENTER YOUR API";
 ```
-  
-  
-  
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
-
-  
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-  
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-  
-  
-  
-
 <!-- ROADMAP -->
 
 ## Roadmap
@@ -111,45 +91,6 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   
 
 See the [open issues](https://github.com/celupanow/giphy/issues) for a list of proposed features (and known issues).
-
-  
-  
-  
-
-<!-- CONTRIBUTING -->
-
-## Contributing
-
-  
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-  
-
-1. Fork the Project
-
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-
-5. Open a Pull Request
-
-  
-  
-  
-
-<!-- LICENSE -->
-
-## License
-
-  
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-  
-  
   
 
 <!-- CONTACT -->
@@ -216,7 +157,8 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM2Nzg4NTI4LDQwOTc3NDMxMywtMTY2Nz
-UxNDA4OSwxNjg1MjA4NDQxLC0yMDUyODEzODYxLDIzMjUyNDUz
-MCwyMTE0MDc3NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
+eyJoaXN0b3J5IjpbMTI0NTM2MjA5MSw0MDk3NzQzMTMsLTE2Nj
+c1MTQwODksMTY4NTIwODQ0MSwtMjA1MjgxMzg2MSwyMzI1MjQ1
+MzAsMjExNDA3NzYzMSwtODEwNDA3NzYxLDIwNTAwNzY5NDddfQ
+==
 -->
