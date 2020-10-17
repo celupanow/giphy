@@ -1,30 +1,3 @@
-<!--
-
-*** Thanks for checking out this README Template. If you have a suggestion that would
-
-*** make this better, please fork the repo and create a pull request or simply open
-
-*** an issue with the tag "enhancement".
-
-*** Thanks again! Now go create something AMAZING! :D
-
-***
-
-***
-
-***
-
-*** To avoid retyping too much info. Do a search and replace for the following:
-
-***github_username, repo_name, twitter_handle, email
-
--->
-
-  
-  
-  
-  
-  
 
 <!-- PROJECT SHIELDS -->
 
@@ -377,6 +350,6 @@ When the page loads, it runs a function that displays several buttons that are c
  - Giphy API
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1OTk4NDExMSwtODEwNDA3NzYxLDIwNT
+eyJoaXN0b3J5IjpbMjExNDA3NzYzMSwtODEwNDA3NzYxLDIwNT
 AwNzY5NDddfQ==
 -->
