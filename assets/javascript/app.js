@@ -31,7 +31,7 @@ function displayGifs() {
     //creates a variable with the data-name
     var item = $(this).attr("data-name");
     //AJAX call query URL
-    var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=hTzhtVnszopo5Jg2X2wKhAc0qcQ6ohGQ&q=" + item + "&limit=10";
+    var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=" + config + "=" + item + "&limit=10";
 
     //AJAX call
     $.ajax({
