@@ -40,8 +40,6 @@ This application uses the Giphy API to pull gifs and display them based on searc
 ## About The Project
 ![Giphy](./assets/images/giphy.png "Giphy")
 
-This is just a fun project that allows users to search for fun dessert-themed gifs using buttons. They can add their own or start and stop the gif animation of the results displayed. It also lists the Giphy API's built in grade for each gif.
-
 ### Built With
 * [HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML)
 * [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -129,8 +127,8 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjgyNjkxMzQsLTE3NDQxNzc2NTYsND
-A5Nzc0MzEzLC0xNjY3NTE0MDg5LDE2ODUyMDg0NDEsLTIwNTI4
-MTM4NjEsMjMyNTI0NTMwLDIxMTQwNzc2MzEsLTgxMDQwNzc2MS
-wyMDUwMDc2OTQ3XX0=
+eyJoaXN0b3J5IjpbNTM5NzU2MjExLC0xNDI4MjY5MTM0LC0xNz
+Q0MTc3NjU2LDQwOTc3NDMxMywtMTY2NzUxNDA4OSwxNjg1MjA4
+NDQxLC0yMDUyODEzODYxLDIzMjUyNDUzMCwyMTE0MDc3NjMxLC
+04MTA0MDc3NjEsMjA1MDA3Njk0N119
 -->
