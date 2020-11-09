@@ -123,12 +123,12 @@ Project Link: [https://github.com/celupanow/giphy](https://github.com/celupanow/
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 
-[linkedin-url]: www.linkedin.com/in/christinalupanow
+[linkedin-url]: https://www.linkedin.com/in/christinalupanow
 
 [product-screenshot]: images/screenshot.png
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMDI5NjcwNCw1Mzk3NTYyMTEsLTE0Mj
-gyNjkxMzQsLTE3NDQxNzc2NTYsNDA5Nzc0MzEzLC0xNjY3NTE0
-MDg5LDE2ODUyMDg0NDEsLTIwNTI4MTM4NjEsMjMyNTI0NTMwLD
-IxMTQwNzc2MzEsLTgxMDQwNzc2MSwyMDUwMDc2OTQ3XX0=
+eyJoaXN0b3J5IjpbLTIwMTIwMDYxOTMsNTM5NzU2MjExLC0xND
+I4MjY5MTM0LC0xNzQ0MTc3NjU2LDQwOTc3NDMxMywtMTY2NzUx
+NDA4OSwxNjg1MjA4NDQxLC0yMDUyODEzODYxLDIzMjUyNDUzMC
+wyMTE0MDc3NjMxLC04MTA0MDc3NjEsMjA1MDA3Njk0N119
 -->
